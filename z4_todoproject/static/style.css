@@ -1,0 +1,17 @@
+.banner{
+     background-color : darkslateblue;
+     width:100%;
+     height:200px;
+     margin-bottom:50px;
+     color:MediumSeaGreen;
+
+}
+.banner-text{
+
+       font-size:80px;
+       font-family: Italic;
+       text-align: center;
+       position:relative;
+       transform:transform;
+
+}
